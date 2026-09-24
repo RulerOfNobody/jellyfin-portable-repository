@@ -1,4 +1,5 @@
 # Portable Downloads for Jellyfin
+Made by AI. Still a work in progress.
 
 Temporary, size-budgeted offline video downloads using Jellyfin's configured encoder and hardware device. Public distribution repository; development is maintained separately.
 
