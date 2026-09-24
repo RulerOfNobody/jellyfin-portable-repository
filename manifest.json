@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "9ab61945-dd21-43f9-86ec-9c1144374cac",
+    "name": "Portable Downloads",
+    "overview": "Temporary mobile downloads with per-item size targets.",
+    "description": "Alpha for Jellyfin 10.11.11. H.264, HEVC and AV1 with Jellyfin's configured hardware device, temporary scratch storage and automatic expiry. Download-menu integration requires the separate matching web client. Runtime-tested on 10.11.11; physical GPU validation still required. Setup: https://github.com/RulerOfNobody/jellyfin-portable-repository",
+    "owner": "RulerOfNobody",
+    "category": "General",
+    "versions": [
+      {
+        "version": "0.1.0.0",
+        "changelog": "Initial alpha. Size sliders, codec/track selection, queued encodes, expiring temporary downloads. Inherits Jellyfin transcoding settings. See repository README for setup and client compatibility.",
+        "targetAbi": "10.11.11.0",
+        "sourceUrl": "https://raw.githubusercontent.com/RulerOfNobody/jellyfin-portable-repository/main/packages/v0.1.0-alpha/portable-downloads-0.1.0-jellyfin-10.11.11.zip",
+        "checksum": "d3bb32d0c06e5e287ee67cecc1466fb8",
+        "timestamp": "2026-09-24T05:00:00Z"
+      }
+    ]
+  }
+]
